@@ -2,11 +2,11 @@
 layout: pilgrimage
 title: "Visit a famous healer"
 categories: [ Western Europe, 6th century ]
-mapurl: "https://www.google.com/maps/place/Sindecuse+Health+Center/@42.2860283,-85.6190015,516m/data=!3m1!1e3!4m14!1m7!3m6!1s0x881777c38bc76333:0x2eed98fcfd5e2ccb!2sSindecuse+Health+Center!8m2!3d42.2860283!4d-85.6164266!16s%2Fg%2F1hhgpyqfm!3m5!1s0x881777c38bc76333:0x2eed98fcfd5e2ccb!8m2!3d42.2860283!4d-85.6164266!16s%2Fg%2F1hhgpyqfm?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+mapurl: "https://www.google.com/maps/place/Sindecuse+Health+Center/@42.2860283,-85.6190015,516m/data=!3m2!1e3!4b1!4m6!3m5!1s0x881777c38bc76333:0x2eed98fcfd5e2ccb!8m2!3d42.2860283!4d-85.6164266!16s%2Fg%2F1hhgpyqfm?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
 clue: "Find me near the woods by the former WMU landmark Swan Lake."
 shortdesc: "The Western Michigan University community flocks here for the laying on of hands. Holy men and women here cure minor chronic illnesses like fevers and joint pain as well as acute illnesses and serious injuries, but it’s uphill both ways and you have to get past the keeper of the shrine first."
-lat: "42.28616717101672" 
-long: "-85.61591161920698"
+lat: "42.28618307406213" 
+long: "-85.61583649346244"
 medievalparallel: >
     The Shrine of St. Martin of Tours ([47.3946308,-38.3422852](https://www.google.com/maps/place/Basilique+Saint-Martin+de+Tours/@47.2624296,0.4948073,10.7z/data=!4m6!3m5!1s0x47fcd5b990083839:0x54707a62731ee7a6!8m2!3d47.3929762!4d0.6828872!16s%2Fm%2F07kg63_))
 
