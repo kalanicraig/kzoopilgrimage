@@ -3,7 +3,7 @@ layout: pilgrimage
 title: "Falling Waters Mark a Festival and the Start of a Pilgrimage"
 categories: [ East Asia, 11th century ]
 mapurl: "https://www.google.com/maps/place/39°10'07.0%22N+86°31'07.5%22W/@39.1686157,-86.5187372,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1686157!4d-86.5187372"
-clue: "This fountain isn't crowned by a mermaid. She's got two feet! (And six fishy companions.)"
+clue: "A peaceful place in the middle of campus to watch the water and the ducks"
 shortdesc: >
     Festivals and pilgrimage sites go together like fish in water. Bonus: there's almost always a marketplace with food stalls and fun activities nearby!
 lat: "42.287991"
