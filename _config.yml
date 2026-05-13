@@ -167,7 +167,7 @@ collections:
 # This URL is the main address for absolute links. This will usually be blank.
 url: 
 # If this archive will be in a folder (kalanicraig.com/digitalarcplatform/) instead of in its own main site (digitalarcplatform.github.io) add that folder name here. This will usually be blank. Use a forward slash before the folder name but not after, like so baseurl: '/foldername'
-baseurl: ''
+baseurl: '/kzoopilgrimage'
 
 # This URL points directly to the images directory. It needs a slash at the end.
 #
