@@ -2,12 +2,12 @@
 layout: pilgrimage
 title: "Falling Waters Mark a Festival and the Start of a Pilgrimage"
 categories: [ East Asia, 11th century ]
-mapurl: "https://www.google.com/maps/place/39°10'07.0%22N+86°31'07.5%22W/@39.1686157,-86.5187372,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1686157!4d-86.5187372"
+mapurl: "https://www.google.com/maps/place/42%C2%B017'17.0%22N+85%C2%B037'00.5%22W/@42.28805,-85.6180274,19z/data=!3m1!4b1!4m12!1m7!3m6!1s0x881777c3ca6698e1:0xb3a7df5223b0ba30!2sGoldsworth+Valley+Pond!8m2!3d42.2879854!4d-85.6163432!16s%2Fg%2F11h0xnqmj!3m3!8m2!3d42.288049!4d-85.616811?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
 clue: "A peaceful place in the middle of campus to watch the water and the ducks"
 shortdesc: >
     Festivals and pilgrimage sites go together like fish in water. Bonus: there's almost always a marketplace with food stalls and fun activities nearby!
-lat: "39.1686157"
-long: "-86.5187372"
+lat: "42.28805"
+long: "-85.6180274"
 medievalparalleltitle: "Kumano Sanzan, or the Three Mountains of Kumano"
 medievalmapurl: "https://www.google.com/maps/place/Kumano-Nachi+Grand+Shrine/@33.8832834,135.032608,9z/data=!4m10!1m2!2m1!1skumano+kodo!3m6!1s0x600615770beeded5:0x2cdbc65763e652b1!8m2!3d33.6686506!4d135.8901334!15sCgtrdW1hbm8ga29kb1oNIgtrdW1hbm8ga29kb5IBDXNoaW50b19zaHJpbmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmFOR055TFV0M0VBReABAPoBBAg_EBk!16s%2Fm%2F02r268t"
 medievalparallel: |
