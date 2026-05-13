@@ -2,7 +2,7 @@
 layout: pilgrimage
 title: "Travel a Forested Path"
 categories: [ East Asia, 9th century ]
-mapurl: "https://www.google.com/maps/place/KalHaven+Trailhead/@42.3962069,-86.2918544,7246m/data=!3m1!1e3!4m10!1m2!2m1!1skal+haven+heritage+trail!3m6!1s0x8810aca9df2199f5:0xeb37a8a8be61f0f!8m2!3d42.4116333!4d86.2626003!15sChhrYWwgaGF2ZW4gaGVyaXRhZ2UgdHJhaWxaGiIYa2FsIGhhdmVuIGhlcml0YWdlIHRyYWlskgELaGlraW5nX2FyZWGaASRDaGREU1VoTk1HOW5TMFZUTBGblNVTjRhR00zTm1kblJSQULgAQD6AQQIJBAp!16s%2Fg%2F11b7qc3yh5?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D)"
+mapurl: "https://www.google.com/maps/place/KalHaven+Trailhead/@42.3962069,-86.2918544,7246m/data=!3m1!1e3!4m10!1m2!2m1!1skal+haven+heritage+trail!3m6!1s0x8810aca9df2199f5:0xeb37a8a8be61f0f!8m2!3d42.4116333!4d86.2626003!15sChhrYWwgaGF2ZW4gaGVyaXRhZ2UgdHJhaWxaGiIYa2FsIGhhdmVuIGhlcml0YWdlIHRyYWlskgELaGlraW5nX2FyZWGaASRDaGREU1VoTk1HOW5TMFZUTBGblNVTjRhR00zTm1kblJSQULgAQD6AQQIJBAp!16s%2Fg%2F11b7qc3yh5?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
 clue: "Find me at the Kal-Haven Heritage Trail"
 shortdesc: >
     Rain or shine, members of our community follow these tree-lined labyrinthine paths with the presence of the first holy person to walk these routes guiding them. Whether they observe the nature of beauty in isolation or seek the spiritual company of fellow travelers, each pilgrim crosses a boundary from the bustle of the brick-lined paths of the outside world into a quiet, contemplative forested preserve.
