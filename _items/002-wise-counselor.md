@@ -2,12 +2,11 @@
 layout: pilgrimage
 title: "Seek a Wise Counselor"
 categories: [ Eastern Mediterranean, 6th century ]
-mapurl: "https://www.google.com/maps/place/39°10'13.1%22N+86°31'02.5%22W/@39.1703009,-86.5173569,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1703009!4d-86.5173569"
-clue: "Find me in GISB 1028"
+mapurl: "https://www.google.com/maps/place/Annunciation/@42.2871057,-85.5890898,17z/data=!3m1!4b1!4m6!3m5!1s0x88179d69aae736e5:0x894ff54fd951f853!8m2!3d42.2871057!4d-85.5890898!16s%2Fg%2F1tykv_j3?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
 shortdesc: >
     IU students seek wisdom from people most often trained in the studia humanitatis (i.e. humanities). Such counselors offer advice on the wisdom amd what classes to take and what subjects to explore, can be found all across campus. Seek the most wise counsel for Medieval Studies in the 28th room of the first floor in a shimmering building, made of equal parts glass and stone, near the limestone monolith at the top of the highest hill.
-lat: "39.1703009"
-long: "-86.5173569"
+lat: "42.2871057"
+long: "-85.5890898"
 medievalparalleltitle: "John Moschos' _Spiritual Meadow_"
 medievalmapurl: "https://www.google.com/maps/place/Monastery+of+the+Blessed+Virgin+Mary+(Muharraq)/@27.3818648,30.7752614,17z/data=!3m1!4b1!4m5!3m4!1s0x1444e4c9a5330331:0x697b12a3fb9fc08b!8m2!3d27.3818702!4d30.7774467"
 medievalparallel: |
