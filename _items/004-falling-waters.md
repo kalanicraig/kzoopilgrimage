@@ -1,7 +1,7 @@
 ---
 layout: pilgrimage
 title: "Falling Waters Mark a Festival and the Start of a Pilgrimage"
-categories: [ East Asia, 11th century ]
+categories: [ East Asia, 11th century, Waterfalls ]
 mapurl: "https://www.google.com/maps/place/42%C2%B017'17.0%22N+85%C2%B037'00.5%22W/@42.28805,-85.6180274,19z/data=!3m1!4b1!4m12!1m7!3m6!1s0x881777c3ca6698e1:0xb3a7df5223b0ba30!2sGoldsworth+Valley+Pond!8m2!3d42.2879854!4d-85.6163432!16s%2Fg%2F11h0xnqmj!3m3!8m2!3d42.288049!4d-85.616811?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
 clue: "A peaceful place in the middle of campus to watch the water and the ducks"
 shortdesc: >
