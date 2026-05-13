@@ -2,7 +2,7 @@
 layout: pilgrimage
 title: "Venture into the Depths of Mother Earth"
 categories: [ Eastern Europe, 11th century ]
-mapurl: "https://www.google.com/maps/place/39°10'04.3%22N+86°31'24.4%22W/@39.1678468,-86.523456,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1678468!4d-86.523456"
+mapurl: "https://www.google.com/maps/@42.2602075,-85.6393558,17z?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
 clue: "Find me in the depths of the IMU near the truck loading zone entrance."
 shortdesc: >
     This IUB landmark is very bright, big and showy on the outside. It has so many different additions and construction phases that visitors get lost very quickly above ground, and it contains a system of interlinking tunnels and caverns down below that are even more labyrinthine. Be careful! One wrong turn and you never know where you'll end up....
