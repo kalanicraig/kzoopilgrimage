@@ -3,6 +3,7 @@ layout: pilgrimage
 title: "Seek a Wise Counselor"
 categories: [ Eastern Mediterranean, 6th century ]
 mapurl: "https://www.google.com/maps/place/Annunciation/@42.2871057,-85.5890898,17z/data=!3m1!4b1!4m6!3m5!1s0x88179d69aae736e5:0x894ff54fd951f853!8m2!3d42.2871057!4d-85.5890898!16s%2Fg%2F1tykv_j3?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+clue: "Find me at the corner of Westnedge and Cedar Street."
 shortdesc: >
     IU students seek wisdom from people most often trained in the studia humanitatis (i.e. humanities). Such counselors offer advice on the wisdom amd what classes to take and what subjects to explore, can be found all across campus. Seek the most wise counsel for Medieval Studies in the 28th room of the first floor in a shimmering building, made of equal parts glass and stone, near the limestone monolith at the top of the highest hill.
 lat: "42.2871057"
