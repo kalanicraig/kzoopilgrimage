@@ -6,8 +6,8 @@ mapurl: "https://www.google.com/maps/place/39°10'07.0%22N+86°31'07.5%22W/@39.1
 clue: "This fountain isn't crowned by a mermaid. She's got two feet! (And six fishy companions.)"
 shortdesc: >
     Festivals and pilgrimage sites go together like fish in water. Bonus: there's almost always a marketplace with food stalls and fun activities nearby!
-lat: "39.1686157"
-long: "-86.5187372"
+lat: "42.287991"
+long: "-85.616157"
 medievalparalleltitle: "Kumano Sanzan, or the Three Mountains of Kumano"
 medievalmapurl: "https://www.google.com/maps/place/Kumano-Nachi+Grand+Shrine/@33.8832834,135.032608,9z/data=!4m10!1m2!2m1!1skumano+kodo!3m6!1s0x600615770beeded5:0x2cdbc65763e652b1!8m2!3d33.6686506!4d135.8901334!15sCgtrdW1hbm8ga29kb1oNIgtrdW1hbm8ga29kb5IBDXNoaW50b19zaHJpbmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmFOR055TFV0M0VBReABAPoBBAg_EBk!16s%2Fm%2F02r268t"
 medievalparallel: |
