@@ -3,7 +3,7 @@ layout: pilgrimage
 title: "Join a Festival of Nations"
 categories: [ Americas, 11th century ]
 mapurl: "https://www.google.com/maps/place/Arcadia+Creek+Festival+Place/@42.294028,-85.5828885,17.85z/data=!4m6!3m5!1s0x88179d40a805f149:0xa93cb2d605771cb5!8m2!3d42.294197!4d-85.5822906!16s%2Fm%2F0k3smn2?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
-clue: "Find me where the newly renamed-campus river meets the western edge of the IMU."
+clue: "Find me building up community in downtown Kalamazoo close to a creek."
 shortdesc: >
     Students, visitors, and staff meet at these sculpted grasslands near a central river to enjoy performances together, celebrate holidays, and enact communal rituals. Because of their location right in the middle of everything, this site is home to many different people at different times of the year, and open to all who may pass through.
 lat: "42.294028"
