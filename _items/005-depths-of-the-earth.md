@@ -6,8 +6,8 @@ mapurl: "https://www.google.com/maps/place/39°10'04.3%22N+86°31'24.4%22W/@39.1
 clue: "Find me in the depths of the IMU near the truck loading zone entrance."
 shortdesc: >
     This IUB landmark is very bright, big and showy on the outside. It has so many different additions and construction phases that visitors get lost very quickly above ground, and it contains a system of interlinking tunnels and caverns down below that are even more labyrinthine. Be careful! One wrong turn and you never know where you'll end up....
-lat: "39.1678468"
-long: "-86.523456"
+lat: "42.2602075"
+long: "-85.6393558"
 medievalparalleltitle: "Kyiv-Pechersk Lavra, 'Monastery of the Caves'"
 medievalmapurl: "https://www.google.com/maps/place/Kiev+Pechersk+Lavra/@50.4346375,30.5550671,17z/data=!4m12!1m6!3m5!1s0x40d4cfa04a0c8e5b:0x3b40a2bcbca08807!2sKiev+Pechersk+Lavra!8m2!3d50.4346375!4d30.5572558!3m4!1s0x40d4cfa04a0c8e5b:0x3b40a2bcbca08807!8m2!3d50.4346375!4d30.5572558"
 medievalparallel: |
