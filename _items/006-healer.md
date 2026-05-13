@@ -2,7 +2,7 @@
 layout: pilgrimage
 title: "Visit a famous healer"
 categories: [ Western Europe, 6th century ]
-mapurl: "https://www.google.com/maps/place/Sindecuse+Health+Center/@42.2870606,-85.6183627,617m/data=!3m1!1e3!4m6!3m5!1s0x881777c38bc76333:0x2eed98fcfd5e2ccb!8m2!3d42.2860283!4d-85.6164266!16s%2Fg%2F1hhgpyqfm?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+mapurl: "https://www.google.com/maps/place/Sindecuse+Health+Center/@42.2860283,-85.6190015"
 clue: "Find me near the woods by the former WMU landmark Swan Lake."
 shortdesc: "The Western Michigan University community flocks here for the laying on of hands. Holy men and women here cure minor chronic illnesses like fevers and joint pain as well as acute illnesses and serious injuries, but it’s uphill both ways and you have to get past the keeper of the shrine first."
 lat: "42.28620266260891" 
