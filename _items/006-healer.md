@@ -2,11 +2,11 @@
 layout: pilgrimage
 title: "Visit a famous healer"
 categories: [ Western Europe, 6th century ]
-mapurl: "https://www.google.com/maps/place/39°10'18.4%22N+86°30'53.5%22W/@39.168475,-86.5190231,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xa3a707413680b6ab!8m2!3d39.1684755!4d-86.5170528!3m4!1s0x0:0xa3a707413680b6ab!8m2!3d39.1684755!4d-86.5170528"
-clue: "Find me at the IU Health Center's drive-in gate."
-shortdesc: "The IU community flocks here for the laying on of hands. Holy men and women here cure minor chronic illnesses like fevers and joint pain as well as acute illnesses and serious injuries, but it’s uphill both ways and you have to get past the keeper of the shrine first."
-lat: "39.1717635"
-long: "-86.5148642"
+mapurl: "https://www.google.com/maps/place/Sindecuse+Health+Center/@42.2870606,-85.6183627,617m/data=!3m1!1e3!4m6!3m5!1s0x881777c38bc76333:0x2eed98fcfd5e2ccb!8m2!3d42.2860283!4d-85.6164266!16s%2Fg%2F1hhgpyqfm?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+clue: "Find me near the woods by the former WMU landmark Swan Lake."
+shortdesc: "The Western Michigan University community flocks here for the laying on of hands. Holy men and women here cure minor chronic illnesses like fevers and joint pain as well as acute illnesses and serious injuries, but it’s uphill both ways and you have to get past the keeper of the shrine first."
+lat: "42.28620266260891" 
+long: "-85.61640211819983"
 medievalparallel: >
     The Shrine of St. Martin of Tours ([47.3946308,-38.3422852](https://www.google.com/maps/place/Basilique+Saint-Martin+de+Tours/@47.2624296,0.4948073,10.7z/data=!4m6!3m5!1s0x47fcd5b990083839:0x54707a62731ee7a6!8m2!3d47.3929762!4d0.6828872!16s%2Fm%2F07kg63_))
 
